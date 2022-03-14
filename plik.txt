@@ -1,1 +1,2 @@
 To jest mój pierwszy plik GITa
+~ Jakub Głowacki
